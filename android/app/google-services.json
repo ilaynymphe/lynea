@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50990890188",
+    "project_id": "lynera-de58e",
+    "storage_bucket": "lynera-de58e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50990890188:android:1e1c267ccef765968bd669",
+        "android_client_info": {
+          "package_name": "com.example.novelia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50990890188-28n9j1jl94g1nmfnpi6k7q23laio9b3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novelia",
+            "certificate_hash": "156d657b72fd33e8be1164ccdb83140bbccfbf20"
+          }
+        },
+        {
+          "client_id": "50990890188-2amci2g5reteojeobsr0di8scgf3ui7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGK3Ot2M7h6Yur8f76mI_rgiiP9hUBuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50990890188-2amci2g5reteojeobsr0di8scgf3ui7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
